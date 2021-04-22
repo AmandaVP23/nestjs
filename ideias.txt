@@ -1,0 +1,23 @@
+- pegar projeto criado no curso e adicionar swagger
+
+- projeto de equipas de futebol;
+   - equipas;
+   - equipa tem um treinador (será entidade);
+   - treinador tem:   (jogador pode ser extensão) - tem um User e Treinador e Jogador
+        - nome;
+	- nacionalidade;
+        - data de nascimento;
+   - equipa tem lista de jogadores;
+   - jogadores têm:
+        - nome;
+        - numero;
+        - nacionalidade;
+        - posição (enum guarda redes, defesa, médio, avançado)
+        - data de nascimento;
+
+
+- projeto de loja;
+   - user;
+   - admin;
+   - produtos;
+   - carrinho;
